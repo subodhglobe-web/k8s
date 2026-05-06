@@ -6,6 +6,7 @@ pipeline {
         IMAGE_NAME = "subodh009/demo"
     }
 
+    
     stages {
 
         stage('Clone Code') {
